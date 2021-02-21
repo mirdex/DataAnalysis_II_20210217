@@ -22,3 +22,4 @@
 #### 課程大綱
 
 - [1. python前言](https://mirdex.github.io/DataAnalysis_II_20210217/0.%20Python前言(Q).slides.html)
+- [2. 模組開發](https://mirdex.github.io/DataAnalysis_II_20210217/1.%20模組開發(Q).slides.html)
