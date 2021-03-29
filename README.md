@@ -27,3 +27,4 @@
 - [4. 檔案處理(二)](https://mirdex.github.io/DataAnalysis_II_20210217/3.%20檔案處理(二)(Q).slides.html)
 - [5. Numpy(一)](https://mirdex.github.io/DataAnalysis_II_20210217/4.%20NumPy(一)(Q).slides.html)
 - [6. Numpy(二)](https://mirdex.github.io/DataAnalysis_II_20210217/5.%20NumPy(二)(Q).slides.html)
+- [7. Pandas(一)](https://mirdex.github.io/DataAnalysis_II_20210217/6.%20Pandas(一)(Q).slides.html)
